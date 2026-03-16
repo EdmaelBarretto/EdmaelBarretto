@@ -25,8 +25,10 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 
 ## 📚 Cursos Complementares
 
-* Bootcamp Accenture - Desenvolvimento Java & Cloud — DIO (Em andamento)
-* Engenharia de Qualidade de Software — FAST Aceleração (CESAR School)
+* Bootcamp Almaviva - Back-end com Java & QA - DIO
+* Bootcamp Accenture - Desenvolvimento Java & Cloud - DIO
+* Minicurso de Java e Microsserviços com Spring Cloud - Rocketseat
+* Engenharia de Qualidade de Software — FAST Aceleração - (CESAR School
 * Bootcamp Bradesco - Java & QA Developer — DIO 
 * CI/CD com GitHub - Porto Digital
 * Introdução à Área de Dados — Porto Digital
@@ -69,7 +71,7 @@ Prototipação e análise de requisitos.
 
 ## 💼 Experiência
 
-### **SpeedMais — Estagiário (Implantação/Planejamento)**
+### **SpeedMais — Estagiário (Setor de Implantação/Planejamento)**
 
 📅 Nov/2024 – Jul/2025
 
@@ -77,7 +79,7 @@ Prototipação e análise de requisitos.
 * Apoio na implantação de sistemas
 * Análise de métricas e melhoria contínua
 
-### **TRE-PE — Estagiário (Ouvidoria)**
+### **TRE-PE — Estagiário (Seção de Ouvidoria)**
 
 📅 Fev/2023 – Nov/2024
 
@@ -85,14 +87,14 @@ Prototipação e análise de requisitos.
 * Relatórios, planilhas e indicadores
 * Mapeamento de processos
 
-### **TRT6 — Estagiário (Sustentabilidade e Acessibilidade)**
+### **TRT6 — Estagiário (Seção de Sustentabilidade, Acessibilidade e Inclusão)**
 
 📅 Abr/2022 – Fev/2023
 
 * Documentação e relatórios
 * Acompanhamento de indicadores
 
-### **UFPE — Bolsista (Pesquisa e Inovação)**
+### **UFPE — Bolsista (Setor do PIBIC - Iniciação Científica na PROPESQI UFPE)**
 
 📅 Set/2020 – Ago/2023
 
