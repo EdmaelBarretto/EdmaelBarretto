@@ -28,7 +28,7 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 * Bootcamp Almaviva - Back-end com Java & QA - DIO
 * Bootcamp Accenture - Desenvolvimento Java & Cloud - DIO
 * Minicurso de Java e Microsserviços com Spring Cloud - Rocketseat
-* Engenharia de Qualidade de Software — FAST Aceleração - (CESAR School
+* Engenharia de Qualidade de Software — FAST Aceleração - CESAR School
 * Bootcamp Bradesco - Java & QA Developer — DIO 
 * CI/CD com GitHub - Porto Digital
 * Introdução à Área de Dados — Porto Digital
