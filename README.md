@@ -25,6 +25,7 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 
 ## 📚 Cursos Complementares
 
+* Bootcamp Java - Deloitte
 * Bootcamp Almaviva - Back-end com Java & QA - DIO
 * Bootcamp Accenture - Desenvolvimento Java & Cloud - DIO
 * Minicurso de Java e Microsserviços com Spring Cloud - Rocketseat
