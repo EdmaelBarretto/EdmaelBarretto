@@ -9,7 +9,7 @@
 
 ## 🎯 Objetivo Profissional
 
-Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, aplicando técnicas de automação, boas práticas de código e análise de requisitos para garantir a entrega de produtos de alta qualidade e performance.
+Desenvolver minha carreira em **QA, testes e desenvolvimento de software Java**, aplicando técnicas de automação, boas práticas de código e análise de requisitos para garantir a entrega de produtos de alta qualidade e performance.
 
 ---
 
@@ -38,6 +38,11 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 ---
 
 ## 💻 Projetos
+
+### **Reserva Segura - Bradesco**
+
+Desenvolvedor Java Back-End, Documentação técnica, análise de fluxo, QA e testes.
+**Stack:** React (Vite + JavaScript), Tailwind CSS, Java 17 + Spring Boot 3.2, PostgreSQL
 
 ### **Saúde Positiva — Porto Digital**
 
@@ -72,6 +77,16 @@ Prototipação e análise de requisitos.
 
 ## 💼 Experiência
 
+### **Grupo Ser Educacional — Assistente de Processamento**
+
+📅 Abril/2026 – Atualmente
+
+*  Gestão de Processos Acadêmicos e Financeiros
+Gestão e resolução de fluxos críticos de jornada acadêmica via Lecom e CRA, com domínio técnico no ERP TOTVS RM. 
+Responsável pela análise e deferimento de processos de dispensa de disciplinas, migração de modalidade, cancelamentos e reingressos para as universidades: UNAMA, UNINASSAU, UNG, UNINORTE, UNIFAEL.
+
+Atuação estratégica para garantir o SLA de atendimento e a total conformidade com as normas institucionais e regulatórias.
+  
 ### **SpeedMais — Estagiário (Setor de Implantação/Planejamento)**
 
 📅 Nov/2024 – Jul/2025
