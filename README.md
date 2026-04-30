@@ -50,7 +50,7 @@ Documentação técnica, análise de fluxo e testes.
 **Stack:** React, TypeScript, Node.js, PostgreSQL, Docker
 🚀 [https://encurtador.com.br/Zkhm](https://encurtador.com.br/Zkhm)
 
-### **CheckPoint — SiDi Recife**
+### **CheckPoint — SiDi**
 
 Mapeamento de processos, testes e documentação.
 **Stack:** React.js, JavaScript, HTML, CSS
